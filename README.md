@@ -31,11 +31,11 @@ Ubicado en la carpeta `/prueba-back-node`, tiene:
 - **`db.js`** → Configuración de la conexión a MySQL (opcional).
 
 ## ▶️ Cómo Ejecutar el Proyecto FRONT
-cd prueba-front-angular
-npm install
-ng serve    # O usa npm start
+- **cd prueba-front-angular
+- **npm install
+- **ng serve    # O usa npm start
 
 ## ▶️ Cómo Ejecutar el Proyecto BACK
-cd prueba-back-node
-npm install
-node index
+- **cd prueba-back-node
+- **npm install
+- **node index
